@@ -1,2 +1,2 @@
 # RSA_HC
-Representational similarity analysis pipelines healthy controls
+Representational similarity analysis pipelines based on healthy controls and chronic low back pain patients data
